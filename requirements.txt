@@ -1,0 +1,4 @@
+PyQt5>=5.15.0
+pyinstaller==5.13.0
+send2trash>=1.8.0
+opencv-python>=4.8.0
